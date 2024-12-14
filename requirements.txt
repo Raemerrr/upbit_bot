@@ -1,8 +1,7 @@
-numpy==1.22.0
-pandas==1.2.3
-python-dotenv==0.17.0
-python-telegram-bot==13.4.1
-pytz==2021.1
-pyupbit==0.2.14
-pyzmq==22.0.3
-telepot==12.7
+numpy==2.2.0
+pandas==2.2.3
+python-dotenv==1.0.1
+pytz==2024.2
+pyupbit==0.2.34
+pyzmq==26.2.0
+slack_sdk==3.33.5
